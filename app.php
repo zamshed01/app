@@ -7,6 +7,11 @@
 </head>
 <body>
     <h3>Application</h3>
+    <?php
+    echo "PHP code";
+    echo "Hello"
     
+    ?>
+
 </body>
 </html>
